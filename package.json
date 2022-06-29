@@ -1,6 +1,7 @@
 {
   "name": "redux-toolkit-project",
   "version": "0.1.0",
+  "you-tut": "https://youtu.be/SgnlgEEkqSo",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
